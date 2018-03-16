@@ -156,8 +156,8 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.UniqueGameLogic
 0c2e5e6db61ba00d5c11f87647d76179 Assembly-CSharp-firstpass.dll:.ES2AutoSave
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Escape2Quit
 908582df8f24041de6700fac99188bc4 Assembly-CSharp-firstpass.dll:.ES3AutoSave
 22efd08edbf6eb2850138098184baf57 Assembly-CSharp-firstpass.dll:.ES2GlobalSettings
 301e71a3676f9b45d4dd42aa016bf8bc Assembly-CSharp-firstpass.dll:.ES3ReferenceMgr
 586d58a59bf3dcd4ee90cf9c8947a5df Assembly-CSharp.dll:.MyExampleScript
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Escape2Quit
